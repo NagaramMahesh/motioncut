@@ -1,0 +1,2 @@
+# motioncut
+mini projest
