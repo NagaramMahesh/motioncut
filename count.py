@@ -20,7 +20,7 @@ def main():
     user_input = input("Enter a sentence or paragraph: ").strip()
 
     if not user_input:
-        print("⚠️ Error: No text entered. Please try again with a valid input.")
+        print(" Error: No text entered. Please try again with a valid input.")
         return
 
     # Count words and  the output
